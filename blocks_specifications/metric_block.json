@@ -1,0 +1,22 @@
+{
+    "title": "Metric block schema",
+    "type": "object",
+    "properties" : {
+        "metric": {
+            "description": "a single number of significant importance with necessary units",
+            "type": "string"
+        },
+        "description": {
+            "description": "a one sentence description of the number in {response_language}",
+            "type": "string"
+        },
+        "supporting_answers": {
+            "description": "A Python list of integer IDs corresponding to any question-answer pairs that support the metric.",
+            "type": "array",
+            "items": {
+                "type": "integer"
+            }
+        }
+    },
+    "required": ["metric", "description", "supporting_answers"]
+   }

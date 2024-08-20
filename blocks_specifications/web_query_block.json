@@ -1,0 +1,16 @@
+{
+    "title": "Web query block schema",
+    "type": "object",
+    "properties" : {
+        "web_query": {
+            "description": "a single sentence web query, written in english, specifically for Image, Quote or Chart search",
+            "type": "string"
+        },
+        "query_type": {
+            "description": "Type of query to be performed on the web",
+            "type": "string",
+            "enum": ["image", "quote", "chart"]
+        }
+    },
+    "required": ["web_query", "query_type"]
+   }

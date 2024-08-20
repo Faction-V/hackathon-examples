@@ -1,0 +1,40 @@
+{
+    "params": {
+      "external_id": ""
+    },
+    "llm_params": {
+      "academic_web_search": false,
+      "after_date": null,
+      "ai_graphs": true,
+      "ai_images": true,
+      "audience": null,
+      "before_date": null,
+      "custom_instructions": null,
+      "format": "turbo_article",
+      "general_web_search": true,
+      "headers": true,
+      "hero_image": true,
+      "image_height": 768,
+      "image_style": "auto",
+      "image_width": 1344,
+      "images": true,
+      "metrics": true,
+      "paragraphs": true,
+      "personality": null,
+      "primary_model": "gpt_4_omni_128k",
+      "quotes": true,
+      "response_language": null,
+      "response_length": "1 page",
+      "response_model": null,
+      "score_threshold": 5,
+      "search_depth": "default",
+      "search_results_language": null,
+      "tables": true,
+      "user_images": [],
+      "user_pdf_documents": [],
+      "user_pdf_urls": [],
+      "user_query": "explain string theory",
+      "user_urls": [],
+      "web_graphs": true
+    }
+}

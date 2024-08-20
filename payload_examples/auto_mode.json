@@ -1,0 +1,40 @@
+{
+    "params": {
+      "external_id": ""
+    },
+    "llm_params": {
+      "academic_web_search": true,
+      "after_date": null,
+      "ai_graphs": false,
+      "ai_images": false,
+      "audience": "students",
+      "before_date": null,
+      "custom_instructions": "Focus on practical applications.",
+      "format": "auto_mode",
+      "general_web_search": false,
+      "headers": false,
+      "hero_image": false,
+      "image_height": 800,
+      "image_style": "realistic",
+      "image_width": 600,
+      "images": false,
+      "metrics": false,
+      "paragraphs": false,
+      "personality": "informative",
+      "primary_model": "gpt_4_omni_128k",
+      "quotes": false,
+      "response_language": "en",
+      "response_length": "2 pages",
+      "response_model": null,
+      "score_threshold": 8,
+      "search_depth": "very shallow",
+      "search_results_language": null,
+      "tables": false,
+      "user_images": [],
+      "user_pdf_documents": [],
+      "user_pdf_urls": [],
+      "user_query": "quantum computing basics",
+      "user_urls": [],
+      "web_graphs": false
+    }
+  }

@@ -1,0 +1,48 @@
+{
+    "table": [
+                [
+                    "Application",
+                    "Description"
+                ],
+                [
+                    "Medical Imaging",
+                    "AI algorithms analyze medical images to detect diseases early."
+                ],
+                [
+                    "Transcribing Medical Documents",
+                    "AI transcribes medical documents, streamlining administrative tasks."
+                ],
+                [
+                    "Drug Discovery",
+                    "AI accelerates the identification of potential drug candidates."
+                ],
+                [
+                    "Surgical Precision",
+                    "AI-powered robotics enhance the precision of surgical procedures."
+                ],
+                [
+                    "Patient Monitoring",
+                    "Digital secretaries assist in monitoring patients and ensuring timely interventions."
+                ],
+                [
+                    "Predicting Treatment Outcomes",
+                    "Machine learning models predict treatment outcomes to tailor therapies."
+                ],
+                [
+                    "Image Processing",
+                    "AI improves the accuracy and efficiency of image analysis."
+                ],
+                [
+                    "Natural Language Processing",
+                    "AI processes and understands human language for various applications."
+                ],
+                [
+                    "Voice Recognition",
+                    "AI recognizes and interprets spoken language for hands-free operation."
+                ]
+            ],
+      "supporting_answers": [
+          1,
+          2
+      ]
+}

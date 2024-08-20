@@ -1,0 +1,18 @@
+{
+    "title": "Paragraph block schema",
+    "type": "object",
+    "properties":{
+        "paragraph": {
+            "description": "a single paragraph of text written in the desired language}",
+            "type": "string"
+        },
+        "supporting_answers": {
+            "type": "array",
+            "description": "A Python list of integer IDs corresponding to any question-answer pairs that were used to support the paragraph.",
+            "items": {
+                "type": "integer"
+            }
+        }
+    },
+    "required": ["paragraph", "supporting_answers"]
+   }

@@ -1,0 +1,29 @@
+{
+    "params": {
+      "external_id": ""
+    },
+    "llm_params": {
+      "academic_web_search": false,
+      "after_date": null,
+      "audience": "General Audience",
+      "before_date": null,
+      "custom_instructions": null,
+      "format": "tldr",
+      "general_web_search": false,
+      "personality": "Professor",
+      "primary_model": "gpt_4_omni_128k",
+      "response_language": "",
+      "response_length": "short",
+      "response_model": null,
+      "score_threshold": 5,
+      "search_depth": "default",
+      "search_results_language": null,
+      "user_images": [],
+      "user_pdf_documents": [],
+      "user_pdf_urls": [],
+      "user_query": "Write a 130 word summary of the attached article",
+      "user_urls": [
+        "https://en.wikipedia.org/wiki/Caenorhabditis_elegans"
+      ]
+    }
+  }

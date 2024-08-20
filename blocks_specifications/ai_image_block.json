@@ -1,0 +1,10 @@
+{
+    "title": "AI Generated Image block schema",
+    "type": "object",
+    "properties" : {
+        "image_description": {
+            "description": "A one sentence text description for an image, including key visual descriptors such as hair clothing and attire.",
+            "type": "string"
+        }
+    }
+}

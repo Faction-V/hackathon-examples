@@ -1,0 +1,43 @@
+{
+    "params": {
+      "external_id": ""
+    },
+    "llm_params": {
+      "academic_web_search": false,
+      "after_date": null,
+      "ai_graphs": true,
+      "ai_images": true,
+      "audience": "Environmental Scientists",
+      "before_date": null,
+      "custom_instructions": null,
+      "format": "turbo_article",
+      "general_web_search": false,
+      "headers": true,
+      "hero_image": true,
+      "image_height": 768,
+      "image_style": "faber",
+      "image_width": 1344,
+      "images": true,
+      "metrics": true,
+      "paragraphs": true,
+      "personality": "Optimistic Analyst",
+      "primary_model": "wizardlm-2-8x22b",
+      "quotes": true,
+      "response_language": "english",
+      "response_length": "5 pages",
+      "response_model": null,
+      "score_threshold": 8,
+      "search_depth": "very deep",
+      "search_results_language": "english",
+      "tables": true,
+      "user_images": [],
+      "user_pdf_documents": [],
+      "user_pdf_urls": [],
+      "user_query": "The potential of renewable energy sources to power the world by 2050",
+      "user_urls": [
+        "https://www.weforum.org/agenda/2020/02/renewable-energy-future-carbon-emissions/",
+        "https://www.un.org/en/climatechange/raising-ambition/renewable-energy"
+      ],
+      "web_graphs": true
+    }
+  }

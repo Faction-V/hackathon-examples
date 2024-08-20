@@ -1,0 +1,11 @@
+{
+    "title": "Header block schema",
+    "type": "object",
+    "properties" : {
+        "header": {
+            "description": "A header for a section or part of your response, written in required language.",
+            "type": "string"
+        }
+    },
+    "required": ["header"]
+}

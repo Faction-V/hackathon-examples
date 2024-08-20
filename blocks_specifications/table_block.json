@@ -1,0 +1,24 @@
+{
+    "title": "Table block schema",
+    "type": "object",
+     "properties":{
+        "table": {
+            "type": "array",
+            "description": "A 2D python array with rows and columns where each entry is a string",
+            "items": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            }
+        },
+        "supporting_answers": {
+            "type": "array",
+            "description": "A Python list of integer IDs corresponding to any question-answer pairs that were used to support the table.",
+            "items": {
+                "type": "integer"
+            }
+        }
+    },
+    "required": ["table", "supporting_answers"]
+   }
