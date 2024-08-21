@@ -1,0 +1,98 @@
+{
+    "properties": {
+        "format": {
+            "const": "turbo_article",
+            "default": "turbo_article",
+            "title": "Format"
+        },
+        "user_query": {
+            "title": "User Query",
+            "type": "string"
+        },
+        "custom_instructions": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "title": "Custom Instructions"
+        },
+        "primary_model": {
+            "default": "gpt_4_omni_128k",
+            "enum": [
+                "gpt_4_omni_128k",
+                "wizardlm-2-8x22b",
+                "meta-llama-3.1-70b-instruct"
+            ],
+            "title": "Primary Model",
+            "type": "string"
+        },
+        "audience": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "title": "Audience"
+        },
+        "personality": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "title": "Personality"
+        },
+        "response_language": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "title": "Response Language"
+        },
+        "response_length": {
+            "anyOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ],
+            "default": null,
+            "title": "Response Length"
+        },
+        "academic_web_search": {
+            "default": false,
+            "title": "Academic Web Search",
+            "type": "boolean"
+        },
+        "general_web_search": {
+            "default": true,
+            "title": "General Web Search",
+            "type": "boolean"
+        }
+    },
+    "required": [
+        "user_query"
+    ],
+    "title": "HackathonPayloadSchema",
+    "type": "object"
+}
