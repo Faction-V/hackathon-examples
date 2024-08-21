@@ -1,7 +1,5 @@
-[118]
-0s
-raw_llm_response = get_raw_llm_content_response(external_id=external_id, draft_id=draft_id)
-pprint(raw_llm_response)
+feature.capitol.ai/story/b890bf32-5268-4321-b20f-27c2a161185f
+
 {'data': 'Block 1: {"header": "Government\'s Initial Response to the '
          'Assassination Attempt on Donald Trump"}\n'
          '\n'
