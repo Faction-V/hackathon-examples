@@ -1,4 +1,4 @@
-Reason: In a data story like this that has to do with trends, it should include graphs and tables.
+Reason: In a data story like this that has to do with trends, it should include graphs and/or tables.
 
 {'data': 'Block 1: {"header": "Justin Trudeau\'s Popularity: An Analysis of '
          'Approval Ratings and Influencing Factors"}\n'
