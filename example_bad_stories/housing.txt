@@ -1,3 +1,4 @@
+Prompt: How has housing gotten so expensive?
 Reason: Web query type should be chart, not image (final block). 
 
 {'data': 'Block 1: {"header": "Factors Contributing to the Rise in Housing '

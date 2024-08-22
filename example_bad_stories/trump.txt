@@ -1,3 +1,4 @@
+Prompt: Biography of Donald Trump
 Reason: Diversity of blocks is very low (only headers and paragraphs) in a story where it could have added pictures or a table.
 
 {'data': 'Block 1: {"header": "Early Life and Education"}\n'

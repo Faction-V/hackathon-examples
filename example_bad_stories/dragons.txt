@@ -1,3 +1,4 @@
+Prompt: Write a short story about dragons
 Reason: Hallucinates citations even though web search was turned off.
 
 {'data': 'Block 1: {"header": "The Tale of the Twin Dragons"}\n'

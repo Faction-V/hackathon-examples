@@ -1,3 +1,4 @@
+Prompt: How has Justin Trudeau's approval rating changed since he was elected
 Reason: In a data story like this that has to do with trends, it should include graphs and/or tables.
 
 {'data': 'Block 1: {"header": "Justin Trudeau\'s Popularity: An Analysis of '

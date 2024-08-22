@@ -1,3 +1,4 @@
+PromptMake a comparison of the Yankees and Red Sox rosters
 Reason: Didn't cite any sources even though it performed RAG
 
 {'data': 'Block 1: {"header": "Yankees vs Red Sox: A Rivalry for the Ages"}\n'

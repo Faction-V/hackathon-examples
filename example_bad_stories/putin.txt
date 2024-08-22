@@ -1,3 +1,4 @@
+Prompt: How has the war in Ukraine affected Putin's popularity in Russia
 Reason: No closing bracket in block 2 (first paragraph), will cause parsing issues
 
 {'data': 'Block 1: {"header": "Vladimir Putin\'s Popularity Before and After '

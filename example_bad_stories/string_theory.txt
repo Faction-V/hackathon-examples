@@ -1,3 +1,4 @@
+Prompt: Explain string theory
 Reason: Timeline should be a table, not a chart (last block)
 
 {'data': 'Block 1: {"header": "Introduction to String Theory"}\n'
