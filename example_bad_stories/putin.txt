@@ -1,0 +1,130 @@
+Reason: No closing bracket in block 2 (first paragraph), will cause parsing issues
+
+{'data': 'Block 1: {"header": "Vladimir Putin\'s Popularity Before and After '
+         'the Invasion of Ukraine: An Analysis"}\n'
+         '\n'
+         'Block 2: {"paragraph": "The invasion of Ukraine in February 2022 '
+         "marked a significant turning point in Vladimir Putin's presidency, "
+         "with far-reaching implications for his popularity and Russia's "
+         'relations with the international community. As international '
+         'relations scholars and experts, it is crucial to examine the context '
+         "and significance of Putin's popularity trends before and after the "
+         'invasion. This analysis will provide insights into the factors that '
+         'contributed to his popularity, the impact of the invasion on his '
+         'approval ratings, and the broader implications for Russian foreign '
+         'policy and global politics.", "supporting_answers": [1, 2, 3]\n'
+         '\n'
+         'Block 3: {"paragraph": "Putin\'s popularity is a complex and '
+         'multifaceted phenomenon, influenced by a range of domestic and '
+         'international factors. Understanding the dynamics of his popularity '
+         'is essential for grasping the underlying drivers of Russian foreign '
+         "policy and the country's position in the global arena. This analysis "
+         "will explore the significance of Putin's popularity changes in the "
+         'context of international relations and global politics, shedding '
+         "light on the implications for Russia's relations with the West and "
+         'its role in the post-9/11 world order.", "supporting_answers": [1, '
+         '2, 3]}\n'
+         'Block 1: {"paragraph": "Prior to the invasion of Ukraine in February '
+         "2022, Vladimir Putin's approval rating in Russia stood at 71 "
+         'percent. This high level of support can be attributed to a '
+         'combination of his domestic policies and international actions. '
+         "Domestically, Putin's administration had garnered support from key "
+         'actors within the Russian political system, including both houses of '
+         'parliament, political parties, regional governors, and the Russian '
+         'Orthodox Church.", "supporting_answers": [4, 6]}\n'
+         '\n'
+         'Block 2: {"paragraph": "Internationally, Putin\'s actions had also '
+         'contributed to his popularity. The annexation of Crimea in 2014 and '
+         'the war with Georgia in 2008 were viewed as strong moves to protect '
+         'and expand Russian interests, bolstering his popularity '
+         'domestically. These actions were perceived as historic '
+         "reunifications and a demonstration of Russia's military prowess, "
+         'resonating with many Russians and maintaining high approval '
+         'ratings.", "supporting_answers": [5, 6]}\n'
+         'Block 1: {"paragraph": "The invasion of Ukraine in February 2022 had '
+         "an immediate and significant impact on Vladimir Putin's popularity "
+         'in Russia. His approval rating surged from 71 percent to 83 percent '
+         'by the end of March 2022, a 12 percentage point increase. This '
+         'sudden rise in support can be attributed to the '
+         "'rally-around-the-flag' effect, a phenomenon where citizens rally "
+         'behind their leader during times of crisis or conflict.", '
+         '"supporting_answers": [7, 8, 9]}\n'
+         '\n'
+         'Block 2: {"paragraph": "The rally-around-the-flag effect is '
+         'characterized by a substantial jump in approval ratings and '
+         'sustained high popularity for an extended period. In this case, '
+         "Putin's approval rating remained high, even after the initial surge, "
+         'as the conflict in Ukraine continued to dominate the headlines. This '
+         "effect is often observed in times of severe conflict, and Putin's "
+         'approval ratings followed a similar pattern after the annexation of '
+         'Crimea in 2014.", "supporting_answers": [7, 8, 9]}\n'
+         '\n'
+         'Block 3: {"metric": "12 percentage point increase", "description": '
+         '"The increase in Putin\'s approval rating from February 2022 to '
+         'March 2022", "supporting_answers": [7, 9]}\n'
+         'Block 1: {"paragraph": "As of August 2024, Vladimir Putin\'s '
+         'approval rating in Russia stands at 87 percent, a significant '
+         'increase from the pre-invasion rating of 71 percent. This sustained '
+         'high level of support can be attributed to a combination of factors, '
+         'including the rally-around-the-flag effect, propaganda, and '
+         'historical narratives of confrontation with the West.", '
+         '"supporting_answers": [10, 11, 12]}\n'
+         '\n'
+         'Block 2: {"paragraph": "The rally-around-the-flag effect, which is '
+         'particularly strong in severe conflicts involving high levels of '
+         "violence, has contributed to the increase in Putin's approval "
+         'rating. Additionally, propaganda has played a significant role in '
+         'shaping public perception, portraying the conflict as an existential '
+         'struggle against the West. Historical narratives of confrontation '
+         'with the West have also been leveraged to justify the conflict and '
+         'bolster support for Putin.", "supporting_answers": [10, 12]}\n'
+         '\n'
+         'Block 3: {"metric": "87 percent", "description": "Putin\'s approval '
+         'rating in Russia as of August 2024", "supporting_answers": [11]}\n'
+         'Block 1: {"paragraph": "The international perception of Vladimir '
+         'Putin since the invasion of Ukraine is highly polarized. While '
+         "Putin's policies have garnered significant support domestically, the "
+         "international community views Russia's actions as aggressive and "
+         'destabilizing. The Russian media has played a crucial role in '
+         'shaping public opinion, framing the conflict as a justified response '
+         'to external threats from NATO and the West.", "supporting_answers": '
+         '[13, 14, 15]}\n'
+         '\n'
+         'Block 2: {"paragraph": "The Russian media\'s portrayal of Putin\'s '
+         'actions in Ukraine has been largely supportive, with a comprehensive '
+         'propaganda machine shaping public perception and maintaining '
+         "confidence in Putin's policies. Despite some awareness and concern "
+         'about government crackdowns on dissent, the overall public sentiment '
+         "remains in favor of Putin's actions in Ukraine. Internationally, "
+         "opinions are divided, with some arguing that Putin's actions are "
+         'driven by defensive motivations and historical ties with Ukraine, '
+         'while others believe his decisions are influenced by ideological '
+         'notions and a zero-sum attitude towards geopolitical threats.", '
+         '"supporting_answers": [13, 14, 15]}\n'
+         '\n'
+         'Block 3: {"web_query": "Vladimir Putin\'s international image after '
+         'the Ukraine invasion", "query_type": "image"}\n'
+         'Block 1: {"paragraph": "In conclusion, the analysis of Putin\'s '
+         'popularity before and after the invasion of Ukraine reveals a '
+         "complex and dynamic trend. Initially, Putin's popularity was "
+         'relatively high, with approval ratings around 69% in early 2022. The '
+         'invasion itself boosted his popularity, with approval ratings rising '
+         'to 83% in March 2022. However, the announcement of partial '
+         'mobilization in September 2022 caused a significant dip in his '
+         'approval ratings, which later rebounded to 82% by January 2023.", '
+         '"supporting_answers": [16, 17, 18]}\n'
+         '\n'
+         'Block 2: {"paragraph": "The implications of these trends for '
+         "Russia's domestic and international politics are significant. High "
+         'levels of support for Putin have allowed him to maintain control '
+         'over key political actors and the general population, but a decline '
+         'in popularity could lead to increased social discontent and '
+         'potentially force Putin to reconsider his political future. '
+         "Internationally, Russia's relations with Western countries have "
+         'deteriorated severely, leading to a halt in political, cultural, '
+         'scientific, and economic cooperation.", "supporting_answers": [16, '
+         '17, 18]}',
+ 'draft_id': 'c1a5d5a0-e687-4de3-86de-779923dbb358',
+ 'external_id': 'ba0332ac-bbba-45a6-9f0a-47673cb54aae',
+ 'format': 'turbo_article',
+ 'model_used': 'meta-llama-3.1-70b-instruct'}
